@@ -4,7 +4,7 @@ This is the first lab for the operating systems course were we will be running C
 
 using the linux terminal run the following commands too set up the linux environment too run the C code
 
-sudo apt update
+sudo apt update \n
 sudo apt install build-essential
 gcc --version
 
